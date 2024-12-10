@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋<br>I'm Tshidiso Molefe, a passionate BSc student majoring in Computer Science and Applied Statistics with Finance. Hailing from a rural background, I strive to merge my analytical skills with technology to solve real-world problems.<br><br>🌟 About Me:<br><br>Experienced in Python, Java, and Assembly Language.<br>Enthusiastic about data analysis, mobile app design (Figma), and parallel programming.<br>Dedicated tutor, helping others excel in programming and finance-related courses.<br>📈 Goals:<br>I aim to master data science and analytics while contributing to impactful projects. Currently, I’m exploring open-source contributions and sharpening my coding expertise.<br><br>✨ Let’s connect and collaborate on innovative solutions that inspire growth and learning!</h2>
+<h2 align="left">Hi there 👋</h2><br><p align="left">I'm Tshidiso Molefe, a passionate BSc student majoring in Computer Science and Applied Statistics.<br><br></p> 
 
 ###
 
